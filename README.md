@@ -10,9 +10,6 @@ Hi there 👋
     📫 Connect with me on LinkedIn or reach me via email at eng.mahmoud.badrii@gmail.com.
 
 
-🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahmoud-badri&theme=gruvbox" alt="Mahmoud's GitHub stats" /></p><p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-badri&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="most-used languages" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmoud-badri&show_icons=true&locale=en&theme=gruvbox" alt="Mahmoud's stats" width="410" /></p> <br><br><br><br><br>
-
 🛠️ My Skills
 👉 Programming Languages
 <p align="left"> <a href="https://python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a> &emsp; <a href="https://www.javascript.com/"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a> </p>
